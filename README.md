@@ -1,4 +1,4 @@
-# Tech interview boilerplate - JavaScript
+# Tech interview boilerplate - NodeJS
 
 Please use this boilerplate as starting point of your code challenge.
 
